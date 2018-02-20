@@ -1,6 +1,6 @@
 ## Treehouse 
 
-This repo is for all my course files completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com:ok_woman:
 
 Also checkout my Treehouse profile [here](https://teamtreehouse.com/alysonla).
 
