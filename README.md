@@ -1,7 +1,8 @@
-## Treehouse
+## Treehouse 
 
-This repo is for all my course file completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com:ok_woman:
 
-Checkout my Treehouse profile - www.teamtreehouse.com/alysonla
+Also checkout my Treehouse profile [here](https://teamtreehouse.com/alysonla).
 
-are you sure?
+![kai](https://user-images.githubusercontent.com/36669860/36453652-ddc99b42-1666-11e8-942b-c992ebdb29bd.JPG)
+
